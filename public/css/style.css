@@ -1,0 +1,15 @@
+.part1 {
+  padding: 4px;
+  border-radius: 6px;
+  max-width: 30%;
+  background-color: white;
+}
+h1 {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: rgb(197, 192, 193);
+}
